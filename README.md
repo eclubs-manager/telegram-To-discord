@@ -1,2 +1,2 @@
-# temegram-To-discord
-telegram to discord forwarder    script   for 
+# temegram-To-discord-forwardwe
+telegram to discord forwarder    script 
