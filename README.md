@@ -2,15 +2,15 @@
 # telegram to discord forwarder python script 
 ------------------------------------------------------------------------------------------------------------------------------------
 A simple Telegram Python bot running on Python3 to automatically forward messages from telegram private and public channels to discord
-# price 50$  (usdt trc20)
-for more informaton contact  telegram id:::
-# @eclubsmanager
+# price 50$  (usdt trc20)                                                                                  
+for more informaton contact  telegram id:::                                                                                 
+# @eclubsmanager                                                        
 
 
 # Starting Script (Read Before Trying To Use!):
 --------------------------------------------------------------------------------------------------------------------------------------
-pip install python \n
-pip install discord  \n
+pip install python                                                                                                         
+pip install discord                                                                                                                        
 
 Please make sure to use the latest Python version. (Recommended)
 
