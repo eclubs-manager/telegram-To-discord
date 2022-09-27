@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 A simple Telegram Python bot running on Python3 to automatically forward messages from telegram private and public channels to discord
 # price 50$  (usdt trc20)
-for more informaton contact   
+for more informaton contact  telegram id:::
 # @eclubsmanager
 
 
