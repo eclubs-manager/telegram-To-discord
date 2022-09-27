@@ -9,8 +9,8 @@ for more informaton contact  telegram id:::
 
 # Starting Script (Read Before Trying To Use!):
 --------------------------------------------------------------------------------------------------------------------------------------
-pip install python
-pip install discord
+pip install python \n
+pip install discord  \n
 
 Please make sure to use the latest Python version. (Recommended)
 
